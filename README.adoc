@@ -7,3 +7,5 @@
 The task is dedicated to countin the hours of classes for each discipline in the university. The data is given in the data/curriculum.csv. Note: the data is separated with a semicolon, not a comma.
 
 == Task 2 ==
+
+The task is to fix the code and remind oneself of pandas toolbox.
